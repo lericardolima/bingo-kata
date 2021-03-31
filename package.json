@@ -1,0 +1,25 @@
+{
+  "name": "bingo-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ser/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lericardolima/bingo-kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lericardolima/bingo-kata/issues"
+  },
+  "homepage": "https://github.com/lericardolima/bingo-kata#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
